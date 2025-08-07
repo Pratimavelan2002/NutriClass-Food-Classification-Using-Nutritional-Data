@@ -35,6 +35,3 @@ Here’s your **Approach** rewritten in a concise, README-friendly format:
      * Support Vector Machine (SVM)
      * XGBoost
      * Gradient Boosting Classifier
-
-If you want, I can also make a **shorter version under 350 characters** for your README summary section so it looks neat.
-
