@@ -1,8 +1,0 @@
-Model,Accuracy (%),Precision (%),Recall (%),F1-Score (%)
-Logistic Regression,100,100,100,100
-Support Vector Machine,100,100,100,100
-Random Forest,100,100,100,100
-Gradient Boosting,100,100,100,100
-K-Nearest Neighbors,100,100,100,100
-XGBoost,100,100,100,100
-Decision Tree,100,100,100,100
